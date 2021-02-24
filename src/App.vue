@@ -8,6 +8,7 @@
         <div class="location-box">
           <div class="location">Northhampton, UK</div>
           <div class="date"></div>
+          <!-- time 11:09 min in -->
         </div>
       </div>
     </main>
