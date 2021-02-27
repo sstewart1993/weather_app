@@ -1,5 +1,5 @@
 # vue_weather
-This project can be viewed at https://steves-weather-app.netlify.app it has noly been designed for mobile use so far wont work as well on a browser
+This project can be viewed at https://steves-weather-app.netlify.app it has only been designed for mobile use so far wont work as well on a browser
 
 ## Project setup
 ```
